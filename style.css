@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  color: rgb(245, 242, 242);
+  font-family: sans-serif;
+}
+
+.netflix {
+  background-image: url(./images/netflix_bg.jpg);
+  text-align: center;
+  height: 600px;
+  width: 100%;
+}
+
+.text {
+  padding-top: 180px;
+}
+.input-box {
+  font-size: larger;
+  color: white;
+  opacity: 0.5;
+  background-color: rgb(14, 12, 12);
+  height: 50px;
+  width: 30%;
+}
+.button {
+  font-size: larger;
+  color: #f3e6e6;
+  background-color: rgb(255, 47, 47);
+  height: 50px;
+  width: 20%;
+}
+
+.language {
+  background-color: gray;
+  height: 30px;
+  width: 10%;
+}
+
+.logo {
+  height: px;
+  width: 15%;
+}
+.drop {
+  background-color: rgb(27, 27, 27);
+  color: white;
+  height: 40px;
+  width: 30%;
+}
+.sign {
+  font-size: larger;
+  color: #f3e6e6;
+  background-color: rgb(228, 12, 12);
+  height: 40px;
+  width: 20%;
+}
+.header {
+  padding-left: 180px;
+  display: flex;
+  justify-content: space-between;
+}
+.display {
+  display: flex;
+  height: 20px;
+  width: 30%;
+  margin-right: -30px;
+  padding-top: 30px;
+}
+.second {
+  background-color: black;
+  height: 700px;
+  width: 100%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: x-large;
+  
+  
+  
+
+  
+  
+}
+.tv {
+  height: 381px;
+  width: 508px;
+position: absolute;
+z-index: 2;
+  
+}
+
+.ntvdo{
+    position: relative;
+    height: 381px;
+    width: 508px;
+    
+}
+.netflixtv{
+    display: flex;
+}
+
+
+    
+
+
+
+
+
+
+
+
